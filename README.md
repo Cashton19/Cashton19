@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cashton19&label=Profile%20views&color=0e75b6&style=flat" alt="cashton19" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cashton19" alt="cashton19" /></a> </p>
-
 - 🌱 I’m currently learning **Python and Javascript**
 
 - 💬 Ask me about **HTML, CSS, Python, BASH**
