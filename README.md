@@ -1,27 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Cashton
 
-<h1 align="center">Hi 👋, I'm Cashton</h1>
-<h3 align="center">A passionate Computer Science Student</h3>
+Welcome to my GitHub profile!  
+I love coding </> and music production 🎵
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cashton19&label=Profile%20views&color=0e75b6&style=flat" alt="cashton19" /> </p>
+---
 
-- 🌱 I’m currently learning **Python and Javascript**
+## 🔭 Currently Working On
+- Python scripts  
+- BASH Scripting  
+- Music production with FL Studio
+- Cloning Websites
 
-- 💬 Ask me about **HTML, CSS, Python, BASH**
+---
 
-- 📫 How to reach me **cashtonnadar11@gmail.com**
+## 🌱 Learning
+- Python  
+- Web Development (HTML/CSS/JS)  
+- Music Production  
 
-- ⚡ Fun fact **I also make music**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/cashton_19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cashton_19" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/casht2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="casht2006" height="30" width="40" /></a>
-<a href="https://discord.gg/E6WkcR2J" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="E6WkcR2J" height="30" width="40" /></a>
-</p>
+## 💻 Skills
+- **Programming:** Python, Bash, JavaScript  
+- **Tools:** Linux, Git, FL Studio  
+- **Other:** Debugging, Clean coding, Sharing knowledge  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
+## 📫 Reach Me
+- Email: cashtonnadar11@gmail.com  
+- Discord: cashton1850
+- Insta: cashton_19 
 
-
+---
